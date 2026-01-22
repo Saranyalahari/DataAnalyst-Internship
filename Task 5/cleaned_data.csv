@@ -1,0 +1,419 @@
+PassengerId,Survived,Survival_Status
+892,0,Not Survived
+893,1,Survived
+894,0,Not Survived
+895,0,Not Survived
+896,1,Survived
+897,0,Not Survived
+898,1,Survived
+899,0,Not Survived
+900,1,Survived
+901,0,Not Survived
+902,0,Not Survived
+903,0,Not Survived
+904,1,Survived
+905,0,Not Survived
+906,1,Survived
+907,1,Survived
+908,0,Not Survived
+909,0,Not Survived
+910,1,Survived
+911,1,Survived
+912,0,Not Survived
+913,0,Not Survived
+914,1,Survived
+915,0,Not Survived
+916,1,Survived
+917,0,Not Survived
+918,1,Survived
+919,0,Not Survived
+920,0,Not Survived
+921,0,Not Survived
+922,0,Not Survived
+923,0,Not Survived
+924,1,Survived
+925,1,Survived
+926,0,Not Survived
+927,0,Not Survived
+928,1,Survived
+929,1,Survived
+930,0,Not Survived
+931,0,Not Survived
+932,0,Not Survived
+933,0,Not Survived
+934,0,Not Survived
+935,1,Survived
+936,1,Survived
+937,0,Not Survived
+938,0,Not Survived
+939,0,Not Survived
+940,1,Survived
+941,1,Survived
+942,0,Not Survived
+943,0,Not Survived
+944,1,Survived
+945,1,Survived
+946,0,Not Survived
+947,0,Not Survived
+948,0,Not Survived
+949,0,Not Survived
+950,0,Not Survived
+951,1,Survived
+952,0,Not Survived
+953,0,Not Survived
+954,0,Not Survived
+955,1,Survived
+956,0,Not Survived
+957,1,Survived
+958,1,Survived
+959,0,Not Survived
+960,0,Not Survived
+961,1,Survived
+962,1,Survived
+963,0,Not Survived
+964,1,Survived
+965,0,Not Survived
+966,1,Survived
+967,0,Not Survived
+968,0,Not Survived
+969,1,Survived
+970,0,Not Survived
+971,1,Survived
+972,0,Not Survived
+973,0,Not Survived
+974,0,Not Survived
+975,0,Not Survived
+976,0,Not Survived
+977,0,Not Survived
+978,1,Survived
+979,1,Survived
+980,1,Survived
+981,0,Not Survived
+982,1,Survived
+983,0,Not Survived
+984,1,Survived
+985,0,Not Survived
+986,0,Not Survived
+987,0,Not Survived
+988,1,Survived
+989,0,Not Survived
+990,1,Survived
+991,0,Not Survived
+992,1,Survived
+993,0,Not Survived
+994,0,Not Survived
+995,0,Not Survived
+996,1,Survived
+997,0,Not Survived
+998,0,Not Survived
+999,0,Not Survived
+1000,0,Not Survived
+1001,0,Not Survived
+1002,0,Not Survived
+1003,1,Survived
+1004,1,Survived
+1005,1,Survived
+1006,1,Survived
+1007,0,Not Survived
+1008,0,Not Survived
+1009,1,Survived
+1010,0,Not Survived
+1011,1,Survived
+1012,1,Survived
+1013,0,Not Survived
+1014,1,Survived
+1015,0,Not Survived
+1016,0,Not Survived
+1017,1,Survived
+1018,0,Not Survived
+1019,1,Survived
+1020,0,Not Survived
+1021,0,Not Survived
+1022,0,Not Survived
+1023,0,Not Survived
+1024,1,Survived
+1025,0,Not Survived
+1026,0,Not Survived
+1027,0,Not Survived
+1028,0,Not Survived
+1029,0,Not Survived
+1030,1,Survived
+1031,0,Not Survived
+1032,1,Survived
+1033,1,Survived
+1034,0,Not Survived
+1035,0,Not Survived
+1036,0,Not Survived
+1037,0,Not Survived
+1038,0,Not Survived
+1039,0,Not Survived
+1040,0,Not Survived
+1041,0,Not Survived
+1042,1,Survived
+1043,0,Not Survived
+1044,0,Not Survived
+1045,1,Survived
+1046,0,Not Survived
+1047,0,Not Survived
+1048,1,Survived
+1049,1,Survived
+1050,0,Not Survived
+1051,1,Survived
+1052,1,Survived
+1053,0,Not Survived
+1054,1,Survived
+1055,0,Not Survived
+1056,0,Not Survived
+1057,1,Survived
+1058,0,Not Survived
+1059,0,Not Survived
+1060,1,Survived
+1061,1,Survived
+1062,0,Not Survived
+1063,0,Not Survived
+1064,0,Not Survived
+1065,0,Not Survived
+1066,0,Not Survived
+1067,1,Survived
+1068,1,Survived
+1069,0,Not Survived
+1070,1,Survived
+1071,1,Survived
+1072,0,Not Survived
+1073,0,Not Survived
+1074,1,Survived
+1075,0,Not Survived
+1076,1,Survived
+1077,0,Not Survived
+1078,1,Survived
+1079,0,Not Survived
+1080,1,Survived
+1081,0,Not Survived
+1082,0,Not Survived
+1083,0,Not Survived
+1084,0,Not Survived
+1085,0,Not Survived
+1086,0,Not Survived
+1087,0,Not Survived
+1088,0,Not Survived
+1089,1,Survived
+1090,0,Not Survived
+1091,1,Survived
+1092,1,Survived
+1093,0,Not Survived
+1094,0,Not Survived
+1095,1,Survived
+1096,0,Not Survived
+1097,0,Not Survived
+1098,1,Survived
+1099,0,Not Survived
+1100,1,Survived
+1101,0,Not Survived
+1102,0,Not Survived
+1103,0,Not Survived
+1104,0,Not Survived
+1105,1,Survived
+1106,1,Survived
+1107,0,Not Survived
+1108,1,Survived
+1109,0,Not Survived
+1110,1,Survived
+1111,0,Not Survived
+1112,1,Survived
+1113,0,Not Survived
+1114,1,Survived
+1115,0,Not Survived
+1116,1,Survived
+1117,1,Survived
+1118,0,Not Survived
+1119,1,Survived
+1120,0,Not Survived
+1121,0,Not Survived
+1122,0,Not Survived
+1123,1,Survived
+1124,0,Not Survived
+1125,0,Not Survived
+1126,0,Not Survived
+1127,0,Not Survived
+1128,0,Not Survived
+1129,0,Not Survived
+1130,1,Survived
+1131,1,Survived
+1132,1,Survived
+1133,1,Survived
+1134,0,Not Survived
+1135,0,Not Survived
+1136,0,Not Survived
+1137,0,Not Survived
+1138,1,Survived
+1139,0,Not Survived
+1140,1,Survived
+1141,1,Survived
+1142,1,Survived
+1143,0,Not Survived
+1144,0,Not Survived
+1145,0,Not Survived
+1146,0,Not Survived
+1147,0,Not Survived
+1148,0,Not Survived
+1149,0,Not Survived
+1150,1,Survived
+1151,0,Not Survived
+1152,0,Not Survived
+1153,0,Not Survived
+1154,1,Survived
+1155,1,Survived
+1156,0,Not Survived
+1157,0,Not Survived
+1158,0,Not Survived
+1159,0,Not Survived
+1160,1,Survived
+1161,0,Not Survived
+1162,0,Not Survived
+1163,0,Not Survived
+1164,1,Survived
+1165,1,Survived
+1166,0,Not Survived
+1167,1,Survived
+1168,0,Not Survived
+1169,0,Not Survived
+1170,0,Not Survived
+1171,0,Not Survived
+1172,1,Survived
+1173,0,Not Survived
+1174,1,Survived
+1175,1,Survived
+1176,1,Survived
+1177,0,Not Survived
+1178,0,Not Survived
+1179,0,Not Survived
+1180,0,Not Survived
+1181,0,Not Survived
+1182,0,Not Survived
+1183,1,Survived
+1184,0,Not Survived
+1185,0,Not Survived
+1186,0,Not Survived
+1187,0,Not Survived
+1188,1,Survived
+1189,0,Not Survived
+1190,0,Not Survived
+1191,0,Not Survived
+1192,0,Not Survived
+1193,0,Not Survived
+1194,0,Not Survived
+1195,0,Not Survived
+1196,1,Survived
+1197,1,Survived
+1198,0,Not Survived
+1199,0,Not Survived
+1200,0,Not Survived
+1201,1,Survived
+1202,0,Not Survived
+1203,0,Not Survived
+1204,0,Not Survived
+1205,1,Survived
+1206,1,Survived
+1207,1,Survived
+1208,0,Not Survived
+1209,0,Not Survived
+1210,0,Not Survived
+1211,0,Not Survived
+1212,0,Not Survived
+1213,0,Not Survived
+1214,0,Not Survived
+1215,0,Not Survived
+1216,1,Survived
+1217,0,Not Survived
+1218,1,Survived
+1219,0,Not Survived
+1220,0,Not Survived
+1221,0,Not Survived
+1222,1,Survived
+1223,0,Not Survived
+1224,0,Not Survived
+1225,1,Survived
+1226,0,Not Survived
+1227,0,Not Survived
+1228,0,Not Survived
+1229,0,Not Survived
+1230,0,Not Survived
+1231,0,Not Survived
+1232,0,Not Survived
+1233,0,Not Survived
+1234,0,Not Survived
+1235,1,Survived
+1236,0,Not Survived
+1237,1,Survived
+1238,0,Not Survived
+1239,1,Survived
+1240,0,Not Survived
+1241,1,Survived
+1242,1,Survived
+1243,0,Not Survived
+1244,0,Not Survived
+1245,0,Not Survived
+1246,1,Survived
+1247,0,Not Survived
+1248,1,Survived
+1249,0,Not Survived
+1250,0,Not Survived
+1251,1,Survived
+1252,0,Not Survived
+1253,1,Survived
+1254,1,Survived
+1255,0,Not Survived
+1256,1,Survived
+1257,1,Survived
+1258,0,Not Survived
+1259,1,Survived
+1260,1,Survived
+1261,0,Not Survived
+1262,0,Not Survived
+1263,1,Survived
+1264,0,Not Survived
+1265,0,Not Survived
+1266,1,Survived
+1267,1,Survived
+1268,1,Survived
+1269,0,Not Survived
+1270,0,Not Survived
+1271,0,Not Survived
+1272,0,Not Survived
+1273,0,Not Survived
+1274,1,Survived
+1275,1,Survived
+1276,0,Not Survived
+1277,1,Survived
+1278,0,Not Survived
+1279,0,Not Survived
+1280,0,Not Survived
+1281,0,Not Survived
+1282,0,Not Survived
+1283,1,Survived
+1284,0,Not Survived
+1285,0,Not Survived
+1286,0,Not Survived
+1287,1,Survived
+1288,0,Not Survived
+1289,1,Survived
+1290,0,Not Survived
+1291,0,Not Survived
+1292,1,Survived
+1293,0,Not Survived
+1294,1,Survived
+1295,0,Not Survived
+1296,0,Not Survived
+1297,0,Not Survived
+1298,0,Not Survived
+1299,0,Not Survived
+1300,1,Survived
+1301,1,Survived
+1302,1,Survived
+1303,1,Survived
+1304,1,Survived
+1305,0,Not Survived
+1306,1,Survived
+1307,0,Not Survived
+1308,0,Not Survived
+1309,0,Not Survived
