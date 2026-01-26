@@ -1,0 +1,5 @@
+dashboard link- https://public.tableau.com/app/profile/e.saranya.lahari/viz/Book1_17694373652700/Dashboard1?publish=yes
+
+1. Technology category generates the highest sales and profit compared to Furniture and Office Supplies.
+2. The West region consistently outperforms other regions in total sales.
+3. Profit shows seasonal fluctuations with noticeable peaks during year-end months.
