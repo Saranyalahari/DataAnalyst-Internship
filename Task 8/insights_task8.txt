@@ -1,0 +1,3 @@
+1. A small group of customers contributes the majority of total sales across regions.
+2. Dense_rank highlights tied top-performing products without skipping rank values.
+3. Month-over-month growth analysis shows fluctuating sales trends with clear peak months.
